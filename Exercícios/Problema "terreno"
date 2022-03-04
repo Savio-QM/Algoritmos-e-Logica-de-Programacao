@@ -1,0 +1,32 @@
+Algoritmo "Problema terreno"
+Var
+   // Variaveis que serão usadas
+   largura, comprimento, metro_quadrado, area, preco : real
+   
+
+Inicio
+      //Perguntar a largura do terreno
+      escreva ("Digite a largura do terreno: ")
+      leia (largura)
+      escreval
+      
+      //Perguntar o comprimento do terreno
+      escreva ("Digite o comprimento do terreno: ")
+      leia (comprimento)
+      escreval
+      
+      //Perguntar os metros quadrados do terreno
+      escreva ("Digite o valor do metro quadrado: ")
+      leia (metro_quadrado)
+      escreval
+      
+      //Calcular e escrever a área do terreno
+      area <- largura * comprimento
+      escreva ("Área do terreno = ", area:3:2)
+      escreval
+      
+      //Calcular e escrever o preço do terreno
+      preco <- largura * comprimento * metro_quadrado
+      escreva ("Preço do terreno = ", preco:5:2)
+
+Fimalgoritmo

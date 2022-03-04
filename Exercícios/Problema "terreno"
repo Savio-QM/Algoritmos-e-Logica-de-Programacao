@@ -26,7 +26,7 @@ Inicio
       escreval
       
       //Calcular e escrever o preço do terreno
-      preco <- largura * comprimento * metro_quadrado
+      preco <- area * metro_quadrado
       escreva ("Preço do terreno = ", preco:5:2)
 
 Fimalgoritmo

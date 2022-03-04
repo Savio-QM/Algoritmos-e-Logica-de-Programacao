@@ -9,6 +9,6 @@ Portanto, esse programa é ideal para pessoas que querem ter uma experiencia ini
 
 ![image](https://user-images.githubusercontent.com/90512344/156820244-ff5352f1-020e-4443-91a7-a98849a28009.png)
 
-Esse é um exemplo de como a linguagem Portugol funciona, você escreve o código de maneira bem direta. No caso da imagem é bem intuitivo, o comando escreva serve para indicar para o programa literalmente escrever algo na tela, logo em seguida tem-se os sinais de parenteses e aspas eles estão ali para indicarem o ínicio e o fim da frase. Quando o programa é iniciado tem como resultado a imagem abaixo:
+Esse é um exemplo de como a linguagem Portugol funciona, você escreve o código de maneira bem direta. No caso da imagem é bem intuitivo, o comando escreva serve para indicar para o programa literalmente escrever algo na tela, logo em seguida tem-se os sinais de parenteses e aspas eles estão ali para indicarem o ínicio e o fim da frase. Sendo assim, quando o programa é iniciado tem como resultado a imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/90512344/156820685-81d28cf4-2c96-49bf-a49c-58d1f43c901b.png)

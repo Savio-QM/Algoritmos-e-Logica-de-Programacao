@@ -22,7 +22,7 @@ Inicio
       // Calcule a média
       media <- (idade1 + idade2) / 2.0
       
-      escreva("A idade média de ", pessoa1, " e de ", pessoa2, " é de", media, " anos")
+      escreva("A idade média de ", pessoa1, " e de ", pessoa2, " é de", media:3:2, " anos")
 
 
 Fimalgoritmo

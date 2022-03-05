@@ -1,0 +1,21 @@
+Algoritmo "troco"
+Var
+// Seção de Declarações das variáveis 
+   preco, quantidade_comprada, dinheiro_recebido, troco : real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+   // Pedir informações
+   escreva ("Preço unitário do produto: ")
+   leia(preco)
+   
+   escreva ("Quantidade comprada: ")
+   leia(quantidade_comprada)
+   
+   escreva ("Dinheiro recebido: ")
+   leia(dinheiro_recebido)
+   
+   troco <- dinheiro_recebido - (preco * quantidade_comprada)
+   escreva ("Troco = ", troco:1:2)
+
+Fimalgoritmo
